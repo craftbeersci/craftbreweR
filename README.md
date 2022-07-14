@@ -5,7 +5,7 @@
 [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)]
 <!-- badges: end -->
 
-The goal of craftbreweR is to ...
+The goal of craftbreweR is to develop Rshiny apps to help brewers with data collection and analysis
 
 ## Installation
 
